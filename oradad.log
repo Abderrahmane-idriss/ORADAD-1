@@ -1,0 +1,282 @@
+2024/02/07 - 15:32:31.930	4	Main.cpp	wmain	198	[.] [1;36mStarting[0m.
+2024/02/07 - 15:32:31.931	5	Main.cpp	wmain	202	[.] Output directory is 'C:\ORADAD-x86'.
+2024/02/07 - 15:32:31.931	5	XML.cpp	XmlReadConfigFile	100	[.] Read config file.
+2024/02/07 - 15:32:31.940	4	Main.cpp	wmain	243	[.] Using Resource Schema.
+2024/02/07 - 15:32:31.940	5	XML.cpp	XmlReadSchemaFile	328	[.] Read schema file.
+2024/02/07 - 15:32:32.198	5	Engine.cpp	pLocateDc	558	[.] DC Locator: DC: \\srv-ad1.ad.admin.in.phac.education.gouv.fr (flags 0xe003f3fd), Domain: ad.admin.in.phac.education.gouv.fr, Forest: ad.admin.in.phac.education.gouv.fr
+2024/02/07 - 15:32:32.219	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:32.225	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/top'.
+2024/02/07 - 15:32:32.228	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:33.657	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 1 second, 1601 objects.
+2024/02/07 - 15:32:33.658	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/schema/(null)/top'.
+2024/02/07 - 15:32:33.661	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:35.885	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 2 seconds, 1770 objects.
+2024/02/07 - 15:32:35.885	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/forestdns/(null)/top'.
+2024/02/07 - 15:32:35.889	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:35.915	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 22 objects.
+2024/02/07 - 15:32:35.915	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/schema/(null)/class'.
+2024/02/07 - 15:32:35.919	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:35.957	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 269 objects.
+2024/02/07 - 15:32:35.957	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/schema/(null)/attribute'.
+2024/02/07 - 15:32:35.961	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.121	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1499 objects.
+2024/02/07 - 15:32:36.122	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/group'.
+2024/02/07 - 15:32:36.126	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.127	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.127	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/serviceConnectionPoint'.
+2024/02/07 - 15:32:36.130	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.132	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.132	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/controlAccessRight'.
+2024/02/07 - 15:32:36.135	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.142	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 81 objects.
+2024/02/07 - 15:32:36.143	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/foreignSecurityPrincipal'.
+2024/02/07 - 15:32:36.146	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.149	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 33 objects.
+2024/02/07 - 15:32:36.149	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/site'.
+2024/02/07 - 15:32:36.152	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.154	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:36.155	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/siteLink'.
+2024/02/07 - 15:32:36.158	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.159	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:36.161	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/subnet'.
+2024/02/07 - 15:32:36.166	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.170	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:36.170	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/server'.
+2024/02/07 - 15:32:36.174	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.178	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:36.178	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/nTDSDSA'.
+2024/02/07 - 15:32:36.182	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.184	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:36.185	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/nTDSConnection'.
+2024/02/07 - 15:32:36.189	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.191	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:36.193	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/certificationauthority'.
+2024/02/07 - 15:32:36.198	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.201	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.202	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/authNPolicy'.
+2024/02/07 - 15:32:36.206	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.208	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.209	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/authNPolicySilo'.
+2024/02/07 - 15:32:36.213	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.214	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.215	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/crossRefContainer'.
+2024/02/07 - 15:32:36.218	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.221	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:36.221	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/crossRef'.
+2024/02/07 - 15:32:36.226	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.233	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 5 objects.
+2024/02/07 - 15:32:36.233	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/nTDSService'.
+2024/02/07 - 15:32:36.237	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.238	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:36.239	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/msDS-ShadowPrincipal'.
+2024/02/07 - 15:32:36.244	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.245	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.246	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/displaySpecifier'.
+2024/02/07 - 15:32:36.249	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.294	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1210 objects.
+2024/02/07 - 15:32:36.295	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/forestdns/(null)/dnsZone'.
+2024/02/07 - 15:32:36.299	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.300	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:36.301	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/forestdns/(null)/dnsNode'.
+2024/02/07 - 15:32:36.304	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.307	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 14 objects.
+2024/02/07 - 15:32:36.307	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/pKICertificateTemplate'.
+2024/02/07 - 15:32:36.311	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.312	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.313	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/pKIEnrollmentService'.
+2024/02/07 - 15:32:36.316	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.322	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.323	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_organization'.
+2024/02/07 - 15:32:36.327	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.328	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.329	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_conf_adminauditlog'.
+2024/02/07 - 15:32:36.332	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.333	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.334	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_admin_group'.
+2024/02/07 - 15:32:36.338	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.339	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.340	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_mrs_request'.
+2024/02/07 - 15:32:36.344	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.345	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.347	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_role'.
+2024/02/07 - 15:32:36.351	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.356	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.357	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_role_assignment'.
+2024/02/07 - 15:32:36.360	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.363	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.364	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_rbac_policy'.
+2024/02/07 - 15:32:36.367	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.368	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.369	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_rbac_scope'.
+2024/02/07 - 15:32:36.372	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.375	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.375	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_server'.
+2024/02/07 - 15:32:36.378	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.382	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.385	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_mdb'.
+2024/02/07 - 15:32:36.389	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.390	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.390	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_mdb_copy'.
+2024/02/07 - 15:32:36.394	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.395	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.396	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_rule_transport'.
+2024/02/07 - 15:32:36.399	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.401	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.401	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_rule_device_access'.
+2024/02/07 - 15:32:36.405	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.406	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.407	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_smtp_in'.
+2024/02/07 - 15:32:36.411	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.416	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.417	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_smtp_out'.
+2024/02/07 - 15:32:36.420	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.421	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.422	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_proto_virtual_directory'.
+2024/02/07 - 15:32:36.426	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.427	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.428	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_proto_smtp'.
+2024/02/07 - 15:32:36.431	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.432	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.433	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_proto_pop'.
+2024/02/07 - 15:32:36.437	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.438	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.440	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_proto_imap'.
+2024/02/07 - 15:32:36.444	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.448	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.448	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_policy_system'.
+2024/02/07 - 15:32:36.452	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.453	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.454	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_policy_recipient'.
+2024/02/07 - 15:32:36.457	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.459	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.459	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_policy_mobile'.
+2024/02/07 - 15:32:36.463	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.464	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.465	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/configuration/(null)/exchange_policy_owa'.
+2024/02/07 - 15:32:36.468	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.471	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:36.481	4	Engine.cpp	Process	416	[.] Find 1 domains in forest.
+2024/02/07 - 15:32:36.481	4	Engine.cpp	Process	427	[.] Domain in forest: ad.admin.in.phac.education.gouv.fr (Attribute: 0 / Type: 2)
+2024/02/07 - 15:32:36.482	5	Engine.cpp	pLocateDc	558	[.] DC Locator: DC: \\srv-ad1.ad.admin.in.phac.education.gouv.fr (flags 0xe003f3fd), Domain: ad.admin.in.phac.education.gouv.fr, Forest: ad.admin.in.phac.education.gouv.fr
+2024/02/07 - 15:32:36.482	4	Engine.cpp	Process	441	[.] Processing domain in forest: ad.admin.in.phac.education.gouv.fr
+2024/02/07 - 15:32:36.485	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.486	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/rootDSE'.
+2024/02/07 - 15:32:36.490	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.500	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:36.500	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/top'.
+2024/02/07 - 15:32:36.504	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:36.950	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 324 objects.
+2024/02/07 - 15:32:36.950	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domaindns/ad.admin.in.phac.education.gouv.fr/top'.
+2024/02/07 - 15:32:36.955	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.012	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 41 objects.
+2024/02/07 - 15:32:37.012	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/root'.
+2024/02/07 - 15:32:37.018	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.022	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:37.023	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/foreignSecurityPrincipal'.
+2024/02/07 - 15:32:37.027	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.031	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 4 objects.
+2024/02/07 - 15:32:37.034	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/user'.
+2024/02/07 - 15:32:37.038	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.084	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 33 objects.
+2024/02/07 - 15:32:37.084	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/computer'.
+2024/02/07 - 15:32:37.088	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.101	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 5 objects.
+2024/02/07 - 15:32:37.101	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/trustedDomain'.
+2024/02/07 - 15:32:37.105	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.107	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.108	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/smsa'.
+2024/02/07 - 15:32:37.111	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.113	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.113	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/gmsa'.
+2024/02/07 - 15:32:37.116	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.118	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.118	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/group'.
+2024/02/07 - 15:32:37.122	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.168	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 56 objects.
+2024/02/07 - 15:32:37.168	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/ou'.
+2024/02/07 - 15:32:37.172	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.174	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:37.174	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/gpo'.
+2024/02/07 - 15:32:37.180	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.182	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 9 objects.
+2024/02/07 - 15:32:37.182	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msWMI-Som'.
+2024/02/07 - 15:32:37.188	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.192	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.192	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/packageRegistration'.
+2024/02/07 - 15:32:37.196	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.199	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.199	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/passwordSettings'.
+2024/02/07 - 15:32:37.203	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.204	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.205	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/rIDManager'.
+2024/02/07 - 15:32:37.209	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.210	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:37.211	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/infrastructureUpdate'.
+2024/02/07 - 15:32:37.215	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.217	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:37.221	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-LocalSettings'.
+2024/02/07 - 15:32:37.225	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.226	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:37.227	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-Subscriber'.
+2024/02/07 - 15:32:37.231	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.232	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:37.233	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-Subscription'.
+2024/02/07 - 15:32:37.236	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.238	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:37.238	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/nTFRSSubscriptions'.
+2024/02/07 - 15:32:37.242	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.243	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.244	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/nTFRSSubscriber'.
+2024/02/07 - 15:32:37.247	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.256	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.257	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/fTDfs'.
+2024/02/07 - 15:32:37.261	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.262	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.263	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFS-NamespaceAnchor'.
+2024/02/07 - 15:32:37.267	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.268	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.269	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFS-Namespacev2'.
+2024/02/07 - 15:32:37.272	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.275	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.275	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-GlobalSettings'.
+2024/02/07 - 15:32:37.280	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.283	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:37.286	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-ReplicationGroup'.
+2024/02/07 - 15:32:37.291	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.293	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:37.293	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-Content'.
+2024/02/07 - 15:32:37.298	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.299	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:37.300	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-ContentSet'.
+2024/02/07 - 15:32:37.303	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.304	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:37.306	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-Connection'.
+2024/02/07 - 15:32:37.311	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.314	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.316	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-Topology'.
+2024/02/07 - 15:32:37.320	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.322	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 1 object.
+2024/02/07 - 15:32:37.323	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/msDFSR-Member'.
+2024/02/07 - 15:32:37.326	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.328	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:37.328	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/nTFRSReplicaSet'.
+2024/02/07 - 15:32:37.332	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.332	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.333	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/nTFRSMember'.
+2024/02/07 - 15:32:37.337	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.340	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.342	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/serviceConnectionPoint'.
+2024/02/07 - 15:32:37.348	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.352	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.353	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domaindns/ad.admin.in.phac.education.gouv.fr/dnsZone'.
+2024/02/07 - 15:32:37.357	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.358	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 2 objects.
+2024/02/07 - 15:32:37.359	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domaindns/ad.admin.in.phac.education.gouv.fr/dnsNode'.
+2024/02/07 - 15:32:37.362	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.366	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 33 objects.
+2024/02/07 - 15:32:37.368	4	LDAP.cpp	LdapProcessRequest	464	[.] Dumping 'ad.admin.in.phac.education.gouv.fr/domain/ad.admin.in.phac.education.gouv.fr/userProxy'.
+2024/02/07 - 15:32:37.371	5	LDAP.cpp	pLdapOpenConnection	1428	[+] [1;32mSuccessfully bind to srv-ad1.ad.admin.in.phac.education.gouv.fr[0m.
+2024/02/07 - 15:32:37.373	4	LDAP.cpp	LdapProcessRequest	1286	   [+] [1;32mFinished[0m: elapsed time: 0 second, 0 object.
+2024/02/07 - 15:32:37.373	4	Sysvol.cpp	ProcessSysvol	114	[.] Processing sysvol: '\\srv-ad1.ad.admin.in.phac.education.gouv.fr\SYSVOL'
+2024/02/07 - 15:32:37.895	4	Engine.cpp	Process	462	[.] [1;36mWrite table info.[0m
+2024/02/07 - 15:32:37.901	4	Main.cpp	wmain	295	[.] [1;36mEnd.[0m
